@@ -12,12 +12,12 @@ This Python program allows users to manage a library digitally, enabling tasks s
 ## Usage:
 
 1. Clone the repository to your local machine.
-2. Run the `library_management.py` file.
+2. Run the `https://github.com/ibrahimsaber1/library_system.git` file.
 3. Follow the on-screen prompts to perform various library management tasks.
 
 ## Contributors:
 
-- [Your Name](link-to-your-profile) - Creator & Developer
+- IBRAHIM SABER https://github.com/ibrahimsaber1 - Creator & Developer
 
 ## License:
 
